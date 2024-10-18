@@ -1,0 +1,58 @@
+$primary-background: #fbfbfb;
+$dark-background: #222222;
+$card-background: #dfdfdf;
+$primary-text: $dark-background;
+$secondary-text: #6b6b6b;
+$placeholder-text: #979797;
+$primary-color: #0792e5;
+$primary-font-family: 'Roboto', sans-serif;
+$secondary-font-family: Arial, sans-serif;
+
+$reseller-quote-background: #cfe6c0;
+$reseller-quote-background-lightened: #dcf1ce;
+$reseller-quote-background-darkened: #91bb75;
+
+$darkened-background: #222222a8;
+$highlighted: rgb(255, 255, 154);
+
+$error-background: #f8d7da;
+$error-red: #721c24;
+
+$line-height: 1.5rem;
+
+// Font Sizes
+$label-fs: 12px;
+$input-fs: 13.3333333px;
+$btn-fs: 13.3333333px;
+
+// Header Styles
+$header-height: 95px;
+$header-background: $dark-background;
+$header-text: $primary-background;
+$header-font-family: $primary-font-family;
+
+$header-link-fs: 16px;
+$header-link-fs-medium: 13px;
+$header-link-fs-small: 11px;
+
+$header-link-font-weight: 500;
+$header-link-letter-spacing: 2px;
+
+// Submit Btn Styles
+$submit-btn-height: 39px;
+$submit-btn-border-radius: 5px;
+$submit-btn-font-family: $secondary-font-family;
+$submit-btn-letter-spacing: 1.25px;
+$submit-btn-background: linear-gradient(
+  86deg,
+  rgb(46, 201, 220) 0%,
+  rgb(16, 166, 192) 100%
+);
+
+// Input Styles
+// $input-border-color: #ebebeb;
+$input-border-color: #cecece;
+$input-border-color-active: $primary-color;
+$input-border: 1px solid $input-border-color;
+$input-border-active: 1px solid $input-border-color-active;
+$input-font-family: $secondary-font-family;
